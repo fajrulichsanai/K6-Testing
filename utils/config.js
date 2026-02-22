@@ -1,6 +1,6 @@
 // Konfigurasi umum untuk semua test
 export const config = {
-  baseUrl: 'https://matematika.fmipa.unand.ac.id/berita-informasi/berita-jurusan/item/398-himatika-universitas-andalas-kembali-menggelar-pekan-seni-bermatematika-psb-ke-xxii-tingkat-nasional',
+  baseUrl: 'https://sholatchampions.com/masjid',
   thresholds: {
     // 95% dari request harus selesai dalam 2 detik
     http_req_duration: ['p(95)<2000'],
